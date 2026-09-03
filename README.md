@@ -1,14 +1,43 @@
-# X-REVENANT 3D MODEL
+# X-REVENANT — 3D MODEL
 
 ## Overview
-A high-detail futuristic VTOL combat copter created in Blender for Hack Club Stardance. Designed from scratch with custom tactical surfacing, emission ring thrusters, detailed cockpit interior.
 
-## Workflow & Process
-* **Concept & Reference:** Gathered inspiration from Pinterest sci-fi vehicles and conceptualized a dual-ring turbine VTOL layout.
-* **Blockout & Iteration:** Remodeled the main fuselage and wing geometry 3 times to achieve the perfect blend of aerodynamic flow and aggressive military silhouette.
-* **Hard-Surface Modeling:** Modeled detailed dual-ring thrusters, rear stabilizer fins, underwing missile/cannon assemblies, and a fully visible cockpit interior.
-* **Shading & Texturing:** Created custom procedural/image-based dark tactical metallic armor, glass shaders, and glowing orange/red emission rings for propulsion feedback.
-* **Lighting & Render:** Configured studio lighting passes in Blender to showcase surface reflections, ambient occlusion, and emissive glow highlights.
+A high-detail futuristic VTOL combat copter created in Blender for Hack Club Stardance. Designed from scratch with custom tactical surfacing, dual-ring emission thrusters, detailed weapon assemblies, and a fully modeled cockpit interior.
+
+## Concept & Design
+
+The design was developed from sci-fi vehicle references and my own ideas, with a focus on creating an aggressive military silhouette while maintaining believable aerodynamic and mechanical forms.
+
+## Modeling Process
+
+* **Blockout & Iteration:** Reworked the main fuselage and wing geometry three times to refine the proportions, aerodynamic flow, and overall silhouette.
+* **Hard-Surface Modeling:** Built the fuselage, wings, dual-ring thrusters, rear stabilizers, underwing weapon assemblies, and cockpit interior from scratch.
+* **Detailing:** Added paneling, mechanical components, surface breaks, and smaller structural details across the vehicle.
+
+## Shading & Rendering
+
+* Created dark tactical metallic materials for the main body.
+* Built custom glass shading for the cockpit.
+* Added orange/red emission materials to the dual-ring thrusters.
+* Used studio lighting to highlight reflections, ambient occlusion, and emissive details.
 
 ## Renders & Media
-* **Google Drive Folder:** (https://drive.google.com/drive/folders/1c-MOG1zaZe8c4xm1_dZhmIcbBx-zBP7R?usp=sharing)
+
+![Final Render](001.png)
+
+![Additional View](002.png)
+
+![Cockpit / Detail](003.png)
+
+**Full Project:** [Google Drive](https://drive.google.com/drive/folders/1c-MOG1zaZe8c4xm1_dZhmIcbBx-zBP7R?usp=sharing)
+
+*Contains the `.blend` file, screenshots, and project files.*
+
+## Project Info
+
+* **Software:** Blender
+* **Type:** 3D Vehicle
+* **Focus:** Hard-Surface Modeling, Shading & Rendering
+* **Time Spent:** 45+ hours
+* **Status:** Completed
+
