@@ -31,7 +31,7 @@ The design was developed from sci-fi vehicle references and my own ideas, with a
 
 ## Demos
 
-**3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/x-revenant-d105edc6008d4e148df14087eecc2355)
+**3D Model:** [View the 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/x-revenant-d105edc6008d4e148df14087eecc2355)
 
 ## Project Info
 
