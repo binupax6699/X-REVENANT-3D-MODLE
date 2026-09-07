@@ -29,9 +29,9 @@ The design was developed from sci-fi vehicle references and my own ideas, with a
 
 ![Cockpit / Detail](003.png)
 
-**Full Project:** [Google Drive](https://drive.google.com/drive/folders/1c-MOG1zaZe8c4xm1_dZhmIcbBx-zBP7R?usp=sharing)
+## Demos
 
-*Contains the `.blend` file, screenshots, and project files.*
+**3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/x-revenant-d105edc6008d4e148df14087eecc2355)
 
 ## Project Info
 
