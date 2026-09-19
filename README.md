@@ -33,6 +33,15 @@ The design was developed from sci-fi vehicle references and my own ideas, with a
 
 **3D Model:** [View the 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/x-revenant-d105edc6008d4e148df14087eecc2355)
 
+## License
+
+Licensed under **CC BY-NC 4.0**.
+You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
+
+**Commercial use or resale requires permission.**
+
+[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Project Info
 
 * **Software:** Blender
