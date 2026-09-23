@@ -1,6 +1,6 @@
 # X-REVENANT — 3D MODEL
 
-![Final Render](001.png)
+![1](001.png)
 
 ## Overview
 
@@ -30,9 +30,12 @@ The design was developed from sci-fi vehicle references and my own ideas, with a
 * Added orange/red emission materials to the dual-ring thrusters.
 * Used studio lighting to highlight reflections, ambient occlusion, and emissive details.
 
-![Additional View](002.png)
-
-![Cockpit / Detail](003.png)
+<table>
+  <tr>
+    <td><img src="002.png" width="450"></td>
+    <td><img src="003.png" width="450"></td>
+  </tr>
+</table>
 
 ## Demos
 
